@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>app/View/Layouts/default.ctp</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/Web/Abela/app/View/Reasons/index.ctp</file>
+            <file>file:/H:/Web/Abela/app/Controller/ReasonsController.php</file>
+            <file>file:/H:/Web/Abela/app/View/Brochures/index.ctp</file>
+            <file>file:/H:/Web/Abela/app/Controller/BrochuresController.php</file>
+        </group>
+    </open-files>
+</project-private>
